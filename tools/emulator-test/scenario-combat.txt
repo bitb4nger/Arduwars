@@ -1,0 +1,88 @@
++40 B
++2
++60 B
++2
+W HT1
++30
++1 RD
++8
++5 B
++2
++10
++1 D
++8
++5 B
++2
++10 B
++2
++10 B
++2
++120
+snap a_after_tank
++1 L
++16
++5 B
++2
++10
+snap b_art_sel
++5 B
++2
++10
+snap c_art_actions
++10 B
++2
++10
+snap d_art_target
++10 B
++2
++30
+snap e_art_hit
++90
+snap f_art_done
++1 L
++16
++1 D
++32
++5 B
++2
++10
+snap g_soldier_sel
++1 U
++8
++5 B
++2
++10
+snap h_load_menu
++10 B
++2
++20
+snap i_loaded
++5 B
++2
++10
+snap j_assist_sel
++1 R
++8
++5 B
++2
++10
+snap k_assist_actions
++10 B
++2
++10
+snap l_drop_targets
++10 B
++2
++20
+snap m_dropped
++1 U
++16
++5 B
++2
++10
+snap n_menu
++10 B
++2
+W HT2
++30
+snap o_day2
